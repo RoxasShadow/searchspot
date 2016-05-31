@@ -38,4 +38,4 @@ path = "src/main.rs"
 doc  = false
 
 [target.heroku]
-version = "nightly"
+version = "1.10"
